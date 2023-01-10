@@ -16,21 +16,19 @@ The review club sessions are conducted over jitsi calls and are kept informal an
 
  - Keep an eye on this `README` to find weekly updates.
  - Each Week's topic detail is included in an [Issue](https://github.com/Bitshala/Bitcoin-Core-Review/issues). Use the issue comments to post questions and discussions regarding the PR or review process in general.
- - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic details.
+ - Review process starts by checking out the PR and going through the `Notes and Questions` included in the topic issue.
  - Prepare your answers before joining the call. There can be many right answers, but there are no stupid questions.
  - Join in the jitsi room at the scheduled time and participate in the conversation.
  - Submit your final review to the original Bitcoin Core PR thread.
 
 # Prerequisites
 
-If you are a first-time participant or haven't reviewed Core PRs before, you might wanna check the following resources.
-
-### Basics
+### Basics (recomended for first time reviewers before joining the club)
  - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
    Code available [here](./test-pr.sh)
  - Bitcoin Core Codebase introductory Tour: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
 
-### Further Reading
+### Further Reading (take you own time going through this)
  - Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
  - Developer Notes: [doc](https://github.com/bitcoin/bitcoin/blob/master/doc/developer-notes.md)
  - Intro to Bitcoin Core Dev: [doc](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
@@ -42,6 +40,6 @@ If you are a first-time participant or haven't reviewed Core PRs before, you mig
 # Next Review Club (Genesis)
 
 - Date: 12-01-2023
-- Topic: https://github.com/Bitshala/Bitcoin-Core-Review/issues/1
+- Isssue: https://github.com/Bitshala/Bitcoin-Core-Review/issues/1
 
 # Previous Review Club
