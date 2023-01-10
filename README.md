@@ -24,9 +24,9 @@ The review club sessions are conducted over jitsi calls and are kept informal an
 # Prerequisites
 
 ### Basics (recomended for first time reviewers before joining the club)
- - Common operational steps of Core review Process: [youtube](https://youtu.be/n5CRJRqkAoc)
+ - Basic Operational Steps: [youtube](https://youtu.be/n5CRJRqkAoc)
    Code available [here](./test-pr.sh)
- - Bitcoin Core Codebase introductory Tour: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
+ - A Brief tour of Bitcoin Core: [youtube](https://www.youtube.com/watch?v=MbinzItqsXI)
 
 ### Further Reading (take you own time going through this)
  - Contributing to Bitcoin Core: [doc](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
